@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/img/Screenshot%202024-05-05%20at%206.35.25%20PM.png</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/img/Button%20(1).png</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/ObjectManager/ObjectMonolith_orange.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/mygameant/Login_Form.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/mygameant/Register_Form.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/mygameant/EventHandling.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/ObjectManager/ObjectHeart.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/ObjectManager/ObjectClock.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/ObjectManager/ObjectCrystal_yellow.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/Entity/NPC_Tao.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/Environment/EnvironmentManager.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/Environment/Lighting.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/mygameant/UI.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/mygameant/Sounds.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/mygameant/KeyHandling.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/UnlockMechanic/Minesweeper.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/ObjectManager/ObjectChest.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/img/spbg.png</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/img/boy.png</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/Maps/testmap1.txt</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/mygameant/Shop.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/Entity/Entity.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/mygameant/UserUI.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/mygameant/Optimaization.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/Maps/testmap.txt</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/TileManager/TileManager.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/TileManager/Tiles.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/ObjectManager/ObjectMonolith_blue.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/ObjectManager/ObjectMonolith_yellow.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/ObjectManager/ObjectCoin.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/mygameant/DataBase.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/ObjectManager/ObjectMonolith_red.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/UnlockMechanic/test.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/mygameant/CheckCollision.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/ObjectManager/ObjectCrystal_red.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/Entity/Player.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/ObjectManager/ObjectDoor.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/ObjectManager/ObjectCrystal_blue.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/mygameant/GamePanel.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/mygameant/EventHitBox.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/img/Screenshot%202024-05-05%20at%207.13.53%20PM.png</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/Maps/maptest2.txt</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/ObjectManager/ObjectCrystal_orange.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/mygameant/Main.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/mygameant/PlaceObject.java</file>
+            <file>file:/C:/Users/bolar/OneDrive/Documents/NetBeansProjects/MyGameAnt/src/img/boy§.png</file>
+        </group>
+    </open-files>
+</project-private>
